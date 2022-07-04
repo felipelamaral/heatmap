@@ -1,0 +1,137 @@
+{
+    "unidades": [
+        {
+            "name": "Alfenas",
+            "code": "010",
+            "value": 94673,
+            "truckage": 9200
+        },
+        {
+            "name": "Barbacena",
+            "code": "050",
+            "value" : 53759,
+            "truckage": 4522
+        },
+        {
+            "name": "Borda da Mata",
+            "code": "060",
+            "value" : 25322,
+            "truckage": 3344
+        },
+        {
+            "name": "Campo do Meio",
+            "code": "096",
+            "value" : 26088,
+            "truckage": 7558
+        },
+        {
+            "name": "Cons. Lafaiete",
+            "code": "103",
+            "value" : 49113,
+            "truckage": 9326
+        },
+        {
+            "name": "Caxambu",
+            "code": "104",
+            "value" : 19171,
+            "truckage": 1714
+        },
+        {
+            "name": "Dores de Campos",
+            "code": "120",
+            "value" : 83664,
+            "truckage": 9529
+        },
+        {
+            "name": "Extrema",
+            "code": "128",
+            "value" : 31766,
+            "truckage": 6169
+        },
+        {
+            "name": "Guaxupé",
+            "code": "210",
+            "value" : 13091,
+            "truckage": 6250
+        },
+        {
+            "name": "Juiz de Fora",
+            "code": "315",
+            "value" : 13955,
+            "truckage": 7500
+        },
+        {
+            "name": "Lavras",
+            "code": "325",
+            "value" : 20530,
+            "truckage": 5000
+        },
+        {
+            "name": "Muriaé",
+            "code": "415",
+            "value" : 42951,
+            "truckage": 4897
+        },
+        {
+            "name": "Manhuaçu",
+            "code": "416",
+            "value" : 77869,
+            "truckage": 1589
+        },
+        {
+            "name": "Pirapora",
+            "code": "504",
+            "value" : 53810,
+            "truckage": 2784
+        },
+        {
+            "name": "Poços de Caldas",
+            "code": "507",
+            "value" : 83981,
+            "truckage": 1318
+        },
+        {
+            "name": "Pouso Alegre",
+            "code": "510",
+            "value" : 27880,
+            "truckage": 7376
+        },
+        {
+            "name": "Santa Rita",
+            "code": "601",
+            "value" : 83845,
+            "truckage": 2138
+        },
+        {
+            "name": "São João",
+            "code": "625",
+            "value" : 81925,
+            "truckage": 2713
+        },
+        {
+            "name": "Montes Claros",
+            "code": "690",
+            "value" : 24173,
+            "truckage": 2979
+        },
+        {
+            "name": "Ubá",
+            "code": "695",
+            "value" : 61713,
+            "truckage": 2902
+        },
+        {
+            "name": "Varginha",
+            "code": "752",
+            "value" : 92371,
+            "truckage": 5889
+        },
+        {
+            "name": "Viçosa",
+            "code": "753",
+            "value" : 2001,
+            "truckage": 3985
+        }
+    ]
+    
+}
